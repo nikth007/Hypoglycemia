@@ -1,0 +1,9 @@
+# Patient-level data and model outputs never go in the repo.
+data/
+outputs/
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.parquet
+__pycache__/
